@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Introducción.md",
-                "mode": "source",
+                "file": "1 - Bases de Docker.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Introducción"
+              "title": "1 - Bases de Docker"
             }
           }
         ]
@@ -190,6 +190,6 @@
   },
   "active": "b478a9f2df079763",
   "lastOpenFiles": [
-    "1 - Introducción.md"
+    "1 - Bases de Docker.md"
   ]
 }
