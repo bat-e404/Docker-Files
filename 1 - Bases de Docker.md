@@ -341,7 +341,7 @@ Ahora sí, después de los comandos.
 
 **Tu cambio desapareció.**
 
-> [!question] Y esa es exactamente la pregunta correcta ¿Cómo hago para que los datos sobrevivan al contenedor? Esa es la razón de existir de los volúmenes → [[02 - Volúmenes y persistencia]]
+> [!question] Y esa es exactamente la pregunta correcta ¿Cómo hago para que los datos sobrevivan al contenedor? Esa es la razón de existir de los volúmenes → [[2 - Volúmenes y redes]]
 
 ---
 
@@ -375,7 +375,6 @@ Marca cuando puedas hacerlo sin consultar la nota:
 ---
 
 ## Chuleta rápida
-
 ```bash
 # Imágenes
 docker pull <img>:<tag>
@@ -401,11 +400,3 @@ docker system prune
 
 ---
 
-## Siguientes notas
-
-- [[02 - Volúmenes y persistencia]]
-- [[03 - Dockerfile e imágenes propias]]
-- [[04 - Redes en Docker]]
-- [[05 - Docker Compose]]
-- [Documentación oficial](https://docs.docker.com/)
-- [Docker Hub](https://hub.docker.com/)
